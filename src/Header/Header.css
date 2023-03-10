@@ -1,0 +1,27 @@
+.Head{
+    background-color: white;
+}
+
+.myclass
+{
+    width: 47px;
+}
+.navkd{
+    margin-left: 30px;
+    font-size: 21px;
+    font-weight: bold;
+}
+.navkd1{
+    margin-left: 229px;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.our{
+    background-color: brown;
+}
+
+.call{
+    padding-top: 0;
+    padding-bottom: 0;
+}

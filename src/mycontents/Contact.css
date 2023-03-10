@@ -1,0 +1,52 @@
+.text{
+    padding-left: 0;
+    padding-right: 0px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.text1{
+    margin-top: 21px;
+    padding-left: 0;
+    padding-right: 0px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.text2{
+    width: 692px;
+    margin-top: 23px;
+}
+
+.sub{
+    margin-top: 14px;
+}
+
+.m1{
+    margin-left: -546px;
+    width: 571px;
+}
+.m2{
+    width: 571px;
+}
+
+.alpha{
+    margin-left: 741px;
+    margin-top: -315px;
+    text-align: left;
+}
+
+.bt{
+    width: 174px;
+    padding: 0px;
+    width: 174px;
+    padding: 0px;
+    margin-left: -575px;
+}
+
+.m3{
+    margin-left: -575px;
+}
+.m4{
+    margin-left: -575px;
+}
+
